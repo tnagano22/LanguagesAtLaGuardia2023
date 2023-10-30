@@ -23,8 +23,7 @@ library(reshape2);library(plyr)
 # turning off scientific notation of numbers
 options(scipen=999)
 
-#setwd("~/Desktop/")
-setwd("~/Dropbox/Documents/USB/600Research/631ResearchLanguageAccessNYC/LaGuardiaInstitutionalResearchLanguagesSpokenAtLaGuardia/")
+setwd("~/Desktop/")
 
 # change the default width
 width.default <- getOption("width"); options(width=120)
